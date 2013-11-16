@@ -8,5 +8,5 @@ Main bashum repo.  These should be released bashums only!
 To add this repo to the list of repos that you search:
 
 ```
-  bashum remote add http://github.com/pkopriv2/bashum-main.git
+  bashum remote add git://github.com/pkopriv2/bashum-main.git
 ```
